@@ -108,8 +108,8 @@
     justify-content: center;
     align-items: center;
     padding: 48px;
-    background: linear-gradient(to right, white -200%, rgba(13, 19, 33, 0.001) 100%);
-
+    background: linear-gradient(to right, white -150%, rgba(13, 19, 33, 0.001) 100%);
+    border-radius: 16px;
     /* background-color: red; */
     margin-bottom: 32px;
 }
