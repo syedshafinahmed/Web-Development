@@ -474,4 +474,19 @@
         width: 64px;
         font-size: 10px;
     }
+    .footer{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 40px;
+        margin-top: 100px;
+    }
+    .footerleft{
+        font-size: 15px;
+    }
+    .footerright  img{
+        width: 25px;
+        height: 25px;
+    }
 }
