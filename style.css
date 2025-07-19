@@ -1,19 +1,22 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
+
 .azeret-mono {
-  font-family: "Azeret Mono", monospace;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
 }
-.hleft{
+
+.hleft {
     font-size: 28px;
     font-weight: bolder;
     color: #0D1321;
 }
-.hbtn{
+
+.hbtn {
     width: 244px;
     height: 57px;
     font-size: 20px;
@@ -23,14 +26,16 @@
     background-color: white;
     border-radius: 8px;
 }
-.header{
+
+.header {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 750px;
     margin: 50px 0px 50px 0px;
 }
-.banbtn{
+
+.banbtn {
     width: 244px;
     height: 65px;
     color: white;
@@ -41,25 +46,29 @@
     border-radius: 8px;
     /* margin-bottom: 50px; */
 }
-.banimg{
+
+.banimg {
     width: 240px;
     height: 240px;
 }
-.banner2{
+
+.banner2 {
     font-size: 48px;
     font-weight: bolder;
     color: #0D1321;
     margin: 32px 0px 24px 0px;
     text-align: center;
 }
-.banner3{
+
+.banner3 {
     color: #0D1321;
     font-size: 16px;
     font-weight: normal;
     margin-bottom: 32px;
     text-align: center;
 }
-.banner{
+
+.banner {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -67,33 +76,39 @@
     background-image: url(assets/Hero-bg.png);
     padding: 30px 0px 50px 0px;
 }
-.wwd1{
+
+.wwd1 {
     font-size: 32px;
     font-weight: bolder;
     color: #0D1321;
 }
-.wwd2{
+
+.wwd2 {
     font-size: 16px;
     font-weight: normal;
     color: #0D1321;
     margin-top: 25px;
 }
-.wwd{
+
+.wwd {
     margin: 80px 0px 50px 0px;
     text-align: center;
 }
-.box11{
+
+.box11 {
     font-size: 24px;
     font-weight: bold;
     color: rgba(13, 19, 33, 0.7);
 }
-.box12{
+
+.box12 {
     color: #0D1321;
     font-size: 16px;
     font-weight: normal;
     margin: 16px 0px 32px 0px;
 }
-.boxbtn{
+
+.boxbtn {
     width: 171px;
     height: 47px;
     font-size: 20px;
@@ -101,11 +116,13 @@
     color: #0D1321;
     border: 1px solid black;
 }
-.box1img{
+
+.box1img {
     width: 275px;
     height: 240px;
 }
-.box1{
+
+.box1 {
     max-width: 950px;
     display: flex;
     gap: 100px;
@@ -117,7 +134,8 @@
     /* background-color: red; */
     margin-bottom: 32px;
 }
-.middle{
+
+.middle {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -126,26 +144,31 @@
     border-radius: 8px;
     padding: 0px 100px 50px 100px;
 }
-.middle-middle{
+
+.middle-middle {
     display: flex;
     justify-content: center;
     margin-top: 100px;
 }
-.ins3{
+
+.ins3 {
     border-radius: 10px;
 }
-.ins2{
+
+.ins2 {
     font-size: 16px;
     text-align: center;
     margin: 30px 0px 80px 0px;
 }
-.ins1{
+
+.ins1 {
     text-align: center;
     font-size: 32px;
     font-weight: 800;
     color: #0D1321;
 }
-.ins{
+
+.ins {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -153,48 +176,55 @@
     margin: 200px 0px 10px 0px;
 }
 
-.target1{
+.target1 {
     color: #0D1321;
 }
-.threebox{
+
+.threebox {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 20px;
     margin-bottom: 150px;
 }
-.threeboximg{
+
+.threeboximg {
     width: 56px;
     height: 56px;
 }
-.threebox1{
+
+.threebox1 {
     color: #0D1321;
     font-size: 24px;
     font-weight: 800;
 }
-.threebox2{
+
+.threebox2 {
     color: #0D1321;
     margin: 20px 0px 20px 0px;
 }
-.threebox3{
+
+.threebox3 {
     color: #0D1321;
     font-weight: bold;
     text-decoration: underline;
 }
-.boxone{
+
+.boxone {
     width: 300px;
     height: auto;
     padding: 30px;
-    background-color: rgba(255, 76, 30, 0.3) ;
+    background-color: rgba(255, 76, 30, 0.3);
     border-radius: 16px;
 }
 
-.anotherthreebox{
+.anotherthreebox {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-.boxonce{
+
+.boxonce {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -205,25 +235,29 @@
     margin: 0px 50px 30px 50px;
     padding: 30px 20px;
 }
-.s1{
+
+.s1 {
     font-size: 32px;
     font-weight: bold;
     color: white;
     text-align: center;
 }
-.s2{
+
+.s2 {
     color: white;
     text-align: center;
     margin: 30px 0px 30px 0px;
 }
-.s3text{
+
+.s3text {
     width: 550px;
     height: 60px;
     color: rgba(13, 19, 33, 0.15);
     border: none;
     border-radius: 10px;
 }
-.s3btn{
+
+.s3btn {
     height: 60px;
     width: 120px;
     background-color: white;
@@ -233,7 +267,8 @@
     border-radius: 10px;
     border: none;
 }
-.s3{
+
+.s3 {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -241,26 +276,28 @@
     gap: 20px;
 }
 
-.support{
+.support {
     background-image: url(assets/handshake.jpg);
     padding: 70px;
     width: 1050px;
     border-radius: 10px;
-    
+
 }
-.support{
+
+.support {
     position: relative;
     background-color: rgb(168, 168, 168);
     z-index: 1;
 }
-.supportd{
+
+.supportd {
     display: flex;
     justify-content: center;
     align-items: center;
     margin: 50px 0px 100px 0px;
 }
 
-.footer{
+.footer {
     padding: 40px 0px;
     display: flex;
     justify-content: center;
@@ -268,111 +305,173 @@
     gap: 500px;
     background-color: rgba(13, 19, 33, 0.3);
 }
-.footerleft{
+
+.footerleft {
     font-size: 20px;
     font-weight: 600;
     color: #0D1321;
 }
 
-.footerright{
+.footerright {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 50px;
 }
-.dn{
+
+.dn {
     display: none;
 }
 
 @media screen and (max-width:992px) {
-    .header{
+    .header {
         gap: 300px;
     }
-    .hleft{
+
+    .hleft {
         font-size: 20px;
     }
-    .hbtn{
+
+    .hbtn {
         width: 162px;
         height: 38px;
         font-size: 10px;
     }
-    .banimg{
+
+    .banimg {
         width: 150px;
         height: 150px;
     }
-    .banner2{
+
+    .banner2 {
         font-size: 20px;
     }
-    .banner3{
+
+    .banner3 {
         font-size: 12px;
         padding: 0px 20px;
     }
-    .banbtn{
+
+    .banbtn {
         width: 163px;
         height: 43px;
         font-size: 15px;
     }
-    .wwd1{
+
+    .wwd1 {
         font-size: 16px;
     }
-    .wwd2{
+
+    .wwd2 {
         font-size: 12px;
         padding: 0px 8px;
     }
-    .box11{
+
+    .box11 {
         font-size: 16px;
     }
-    .box12{
+
+    .box12 {
         font-size: 10px;
     }
-    .boxbtn{
+
+    .boxbtn {
         width: 114px;
         height: 32px;
         font-size: 12px;
     }
-    .box1img{
+
+    .box1img {
         width: 184px;
         height: 160px;
     }
-    .box1{
+
+    .box1 {
         gap: 20px;
     }
-    .middle-middle{
+
+    .middle-middle {
         margin: 0 30px;
     }
-    .ins1{
+
+    .ins1 {
         font-size: 20px;
         margin-top: -100px;
     }
-    .ins2{
+
+    .ins2 {
         font-size: 10px;
     }
-    .ins3{
+
+    .ins3 {
         width: 600px;
         height: 300px;
         margin-top: -50px;
     }
-    .threebox{
+
+    .threebox {
         flex-direction: column;
         margin-top: -50px;
     }
-    .threebox1{
+
+    .threebox1 {
         font-size: 18px;
         /* margin-top: 15px; */
     }
-    .threebox2, .threebox3{
+
+    .threebox2,
+    .threebox3 {
         font-size: 13px;
     }
-    .boxonce{
-        width: 500px;
+
+    .boxonce {
+        width: 570px;
         height: auto;
         padding: 20px 5px;
     }
-    .dhur{
+
+    .dhur {
         transform: scale(0.8);
     }
-    .anotherthreebox{
+
+    .anotherthreebox {
         margin-top: -50px;
     }
 
+    .support {
+        /* width: 500px; */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .supportd {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 40px 40px;
+    }
+
+    .s1 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .s2 {
+        font-size: 10px;
+        text-align: center;
+        margin: 20px 0px 20px 0px;
+    }
+
+    .s3text {
+        width: 300px;
+        height: 32px;
+    }
+
+    .s3btn {
+        height: 32px;
+        width: 64px;
+        font-size: 10px;
+    }
 }
