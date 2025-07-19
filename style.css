@@ -231,7 +231,7 @@
     gap: 30px;
     border: 0.05px solid #a4abb8;
     border-radius: 8px;
-    width: 1050px;
+    width: 1070px;
     margin: 0px 50px 30px 50px;
     padding: 30px 20px;
 }
@@ -279,7 +279,7 @@
 .support {
     background-image: url(assets/handshake.jpg);
     padding: 70px;
-    width: 1050px;
+    width: 975px;
     border-radius: 10px;
 
 }
