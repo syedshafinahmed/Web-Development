@@ -351,6 +351,9 @@
         font-size: 12px;
         padding: 0px 20px;
     }
+    .banner{
+        margin-bottom: 200px;
+    }
 
     .banbtn {
         width: 163px;
