@@ -337,9 +337,6 @@
         height: 38px;
         font-size: 10px;
     }
-    .banner{
-        margin-bottom: 150px;
-    }
 
     .banimg {
         width: 150px;
@@ -394,7 +391,7 @@
     }
 
     .middle-middle {
-        margin: 0 30px;
+        margin: 200px 30px 0px 30px;
     }
 
     .ins1 {
@@ -407,8 +404,8 @@
     }
 
     .ins3 {
-        width: 800px;
-        height: 400px;
+        width: 600px;
+        height: 300px;
         margin-top: -50px;
     }
 
