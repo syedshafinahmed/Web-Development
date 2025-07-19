@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .azeret-mono {
   font-family: "Azeret Mono", monospace;
   font-optical-sizing: auto;
@@ -252,4 +256,25 @@
     justify-content: center;
     align-items: center;
     margin: 50px 0px 100px 0px;
+}
+
+.footer{
+    padding: 40px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 500px;
+    background-color: rgba(13, 19, 33, 0.3);
+}
+.footerleft{
+    font-size: 20px;
+    font-weight: 600;
+    color: #0D1321;
+}
+
+.footerright{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
 }
