@@ -357,11 +357,22 @@
         margin-top: -50px;
     }
     .threebox1{
-        font-size: 20px;
-        margin-top: 15px;
+        font-size: 18px;
+        /* margin-top: 15px; */
     }
     .threebox2, .threebox3{
-        font-size: 15px;
+        font-size: 13px;
+    }
+    .boxonce{
+        width: 500px;
+        height: auto;
+        padding: 20px 5px;
+    }
+    .dhur{
+        transform: scale(0.8);
+    }
+    .anotherthreebox{
+        margin-top: -50px;
     }
 
 }
